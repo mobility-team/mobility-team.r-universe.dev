@@ -2,5 +2,9 @@
   {
     "package": "cppRoutingCCH",
     "url": "https://github.com/mobility-team/cppRoutingCCH"
+  },
+  {
+    "package": "osmdata.mobility",
+    "url": "https://github.com/mobility-team/osmdata.mobility"
   }
 ]
